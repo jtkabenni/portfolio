@@ -1,2 +1,2 @@
 import { Callout, Tabs, Cards, Card } from "nextra/components";
-import { CardsIcon, OneIcon, WarningIcon } from "../../components/icons";
+import { CardsIcon } from "../../components/icons/index";
