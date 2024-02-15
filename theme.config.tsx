@@ -22,6 +22,10 @@ const config: DocsThemeConfig = {
   search: {
     placeholder: "Search portfolio..",
   },
+  nextThemes: {
+    defaultTheme: "dark",
+  },
+
   chat: {
     link: "https://www.linkedin.com/in/ehime-takahara/",
     icon: (
