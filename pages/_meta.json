@@ -1,7 +1,8 @@
 {
   "index": "About",
-  "skills": "Skills",
+
   "projects": "Projects",
+  "skills": "Skills",
   "experience": "Work experience",
   "education": "Education",
   "contact": {
