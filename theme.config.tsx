@@ -13,6 +13,15 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/jtkabenni",
   },
+  editLink: {
+    component: null,
+  },
+  feedback: {
+    content: null,
+  },
+  search: {
+    placeholder: "Search portfolio..",
+  },
   chat: {
     link: "https://www.linkedin.com/in/ehime-takahara/",
     icon: (
