@@ -23,7 +23,7 @@ const config: DocsThemeConfig = {
     placeholder: "Search portfolio..",
   },
   nextThemes: {
-    defaultTheme: "dark",
+    defaultTheme: "light",
   },
 
   chat: {
