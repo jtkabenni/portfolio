@@ -1,4 +1,5 @@
 import { Callout, Tabs, Cards, Card } from "nextra/components";
+import Image from "next/image";
 
 # Brewlette
 
@@ -28,7 +29,32 @@ A random cafe finder for neighborhoods in NYC. Brewlette was born from a discuss
 
 </Cards>
 
+## User flow
+
+_Search screen_
+
+<Image
+  src="/brewlette/search_brewlette.png"
+  alt="search"
+  width={1000}
+  height={500}
+  unoptimized
+/>
+_Result screen_
+<Image
+  src="/brewlette/result_brewlette.png"
+  alt="result"
+  width={1000}
+  height={500}
+  unoptimized
+/>
+
 ## Demo the Site
+
+<Callout type="info">
+  Since it is hosted on the free version of Render, it may take a while to load
+  initially.
+</Callout>
 
 <iframe
   src="https://brewlette.onrender.com/"
