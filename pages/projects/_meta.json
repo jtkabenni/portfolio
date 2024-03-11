@@ -3,5 +3,6 @@
   "markdown-generator": "Markdown Editor",
   "parktrippers": "Parktrippers",
   "portfolio": "Portfolio",
-  "sketchy-recall": "Sketchy Recall"
+  "sketchy-recall": "Sketchy Recall",
+  "visu-nyc": { "display": "hidden" }
 }
